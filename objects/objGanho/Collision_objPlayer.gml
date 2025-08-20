@@ -1,5 +1,5 @@
 if colisao == 0{
-	global.pontos += 10
+	global.pontos += valor
 	
 	colisao++
 }

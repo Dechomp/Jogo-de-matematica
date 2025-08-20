@@ -37,6 +37,7 @@
   "resources":[
     {"id":{"name":"objCamera","path":"objects/objCamera/objCamera.yy",},},
     {"id":{"name":"objGanho","path":"objects/objGanho/objGanho.yy",},},
+    {"id":{"name":"objGanhoMovel","path":"objects/objGanhoMovel/objGanhoMovel.yy",},},
     {"id":{"name":"objPerda","path":"objects/objPerda/objPerda.yy",},},
     {"id":{"name":"objPlayer","path":"objects/objPlayer/objPlayer.yy",},},
     {"id":{"name":"objPontuacao","path":"objects/objPontuacao/objPontuacao.yy",},},

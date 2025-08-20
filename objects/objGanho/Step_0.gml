@@ -1,7 +1,7 @@
 if objPlayer.y <= 10{
 	colisao = 0
 	
-	posicao = random_range(-790, 790)
+	posicao = random_range(-400, 400)
 
 	x = 535
 	
