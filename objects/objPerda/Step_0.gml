@@ -1,4 +1,4 @@
-if objPlayer.y <= 16{
+if objPlayer.y <= 1{
 	colisao = 0
 	
 	

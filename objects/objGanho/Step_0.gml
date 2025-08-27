@@ -1,4 +1,4 @@
-if objPlayer.y <= 10{
+if objPlayer.y <= 1{
 	colisao = 0
 	
 	posicao = random_range(-400, 400)

@@ -11,7 +11,7 @@
 	
 	x += movimento * vel 
 	
-	y -= 2
+	
 	
 	if x <= 0{
 		x+= 32
@@ -26,9 +26,7 @@
 		y = 2000	
 	}
 	
-	if keyboard_check(vk_up){
-		y -=32
-	}
+	y--
 	
 	
 #endregion

@@ -4,6 +4,6 @@
 	
 	y = 420
 	
-	
+	var msg = ""
 	
 #endregion
